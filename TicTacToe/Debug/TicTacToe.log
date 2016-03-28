@@ -1,0 +1,6 @@
+﻿  TicTacToe.cpp
+c:\users\a.mashhoori\documents\visual studio 2015\projects\tictactoe\tictactoe\tictactoe.cpp(103): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\a.mashhoori\documents\visual studio 2015\projects\tictactoe\tictactoe\tictactoe.cpp(104): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\a.mashhoori\documents\visual studio 2015\projects\tictactoe\tictactoe\tictactoe.cpp(144): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\a.mashhoori\documents\visual studio 2015\projects\tictactoe\tictactoe\tictactoe.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TicTacToe.vcxproj -> C:\Users\a.mashhoori\Documents\Visual Studio 2015\Projects\TicTacToe\Debug\TicTacToe.exe
